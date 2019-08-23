@@ -1,3 +1,7 @@
+//Author: Ashleigh Payne
+//aap0035
+//COMP3700
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
